@@ -1,0 +1,230 @@
+{
+	"textures": [
+		{
+			"image": "troll1-walking-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1750,
+				"h": 523
+			},
+			"scale": 0.5,
+			"frames": [
+				{
+					"filename": "Troll_01_1_WALK_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 250,
+						"y": 181,
+						"w": 387,
+						"h": 256
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 387,
+						"h": 256
+					}
+				},
+				{
+					"filename": "Troll_01_1_WALK_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 260,
+						"y": 180,
+						"w": 372,
+						"h": 257
+					},
+					"frame": {
+						"x": 390,
+						"y": 1,
+						"w": 372,
+						"h": 257
+					}
+				},
+				{
+					"filename": "Troll_01_1_WALK_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 260,
+						"y": 180,
+						"w": 372,
+						"h": 257
+					},
+					"frame": {
+						"x": 1,
+						"y": 259,
+						"w": 372,
+						"h": 257
+					}
+				},
+				{
+					"filename": "Troll_01_1_WALK_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 270,
+						"y": 180,
+						"w": 354,
+						"h": 258
+					},
+					"frame": {
+						"x": 764,
+						"y": 1,
+						"w": 354,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Troll_01_1_WALK_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 270,
+						"y": 180,
+						"w": 354,
+						"h": 258
+					},
+					"frame": {
+						"x": 375,
+						"y": 260,
+						"w": 354,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Troll_01_1_WALK_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 281,
+						"y": 180,
+						"w": 335,
+						"h": 259
+					},
+					"frame": {
+						"x": 1120,
+						"y": 1,
+						"w": 335,
+						"h": 259
+					}
+				},
+				{
+					"filename": "Troll_01_1_WALK_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 281,
+						"y": 180,
+						"w": 335,
+						"h": 259
+					},
+					"frame": {
+						"x": 731,
+						"y": 261,
+						"w": 335,
+						"h": 259
+					}
+				},
+				{
+					"filename": "Troll_01_1_WALK_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 304,
+						"y": 179,
+						"w": 292,
+						"h": 259
+					},
+					"frame": {
+						"x": 1457,
+						"y": 1,
+						"w": 292,
+						"h": 259
+					}
+				},
+				{
+					"filename": "Troll_01_1_WALK_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 292,
+						"y": 179,
+						"w": 315,
+						"h": 260
+					},
+					"frame": {
+						"x": 1068,
+						"y": 262,
+						"w": 315,
+						"h": 260
+					}
+				},
+				{
+					"filename": "Troll_01_1_WALK_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 292,
+						"y": 179,
+						"w": 315,
+						"h": 260
+					},
+					"frame": {
+						"x": 1385,
+						"y": 262,
+						"w": 315,
+						"h": 260
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:18770cb0482a78eada2b38957817a4b4:3bb141a30cc2418a471bc34b2e22bed0:4f587f4481c9a07fb2a19633e59de243$"
+	}
+}
